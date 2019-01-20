@@ -6,13 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ApiGateWay" />
         <module name="AuthenticationServer" />
         <module name="CustomService" />
         <module name="eurekatest" />
+        <module name="SpringCloudGateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ApiGateWay2" target="1.8" />
       <module name="EurekaTest" target="1.8" />
+      <module name="SpringBootGateway" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

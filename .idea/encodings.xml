@@ -2,8 +2,13 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ApiGateWay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ApiGateWay2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ApiGateWay2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/AuthenticationServer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CustomService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootGateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloudGateway" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eurekatest" charset="UTF-8" />
   </component>
 </project>
